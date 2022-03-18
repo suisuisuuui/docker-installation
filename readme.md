@@ -31,6 +31,14 @@ Git をインストールする
 # chmod +x docker-and-docker-compose-install.sh
 ```
 
+- Docker Compose のバージョンを指定する
+
+```
+# vi docker-and-docker-compose-install.sh
+下記の行でバージョンを指定する
+DOCKER_COMPOSE_VERSION=2.3.3
+```
+
 スクリプトを実行する
 
 ```
