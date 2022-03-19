@@ -3,7 +3,6 @@
 ## 注意事項
 
 - 本セットアップの手順は、個人 PC の開発用環境等で使うことを想定しています
-- 本スクリプトを実施したことで不具合が起きても責任は取れません
 
 ## 前提事項
 
@@ -45,3 +44,6 @@ DOCKER_COMPOSE_VERSION=2.3.3
 # ./docker-and-docker-compose-install.sh
 ```
 
+## Lisense
+
+MIT
