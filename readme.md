@@ -48,6 +48,10 @@ DOCKER_COMPOSE_VERSION=2.3.3
 
 - 一般ユーザで docker および docker compose を使いたければ、一般ユーザの group に docker を追加するといいかも
 
+```
+# usermod -aG docker <username>
+```
+
 ## Lisense
 
 MIT
