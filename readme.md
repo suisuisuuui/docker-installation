@@ -44,6 +44,10 @@ DOCKER_COMPOSE_VERSION=2.3.3
 # ./docker-and-docker-compose-install.sh
 ```
 
+## memo
+
+- 一般ユーザで docker および docker compose を使いたければ、一般ユーザの group に docker を追加するといいかも
+
 ## Lisense
 
 MIT
